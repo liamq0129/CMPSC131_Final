@@ -1,0 +1,37 @@
+01/03/2026,Paycheck,Income,2100.00
+01/05/2026,Grocery Mart,Groceries,-86.47
+01/07/2026,Apartment Rent,Rent,-950.00
+01/09/2026,Electric Co,Utilities,-64.20
+01/12/2026,Campus Bites,Dining,-18.75
+01/15/2026,Movie Night,Entertainment,-24.00
+01/18/2026,Bus Pass,Transport,-45.00
+01/20/2026,Grocery Mart,Groceries,-72.10
+01/22/2026,Shoe Store Return,Shopping,64.99
+01/22/2026,Shoe Store,Shopping,-64.99
+02/03/2026,Paycheck,Income,2100.00
+02/05/2026,Grocery Mart,Groceries,-91.33
+02/07/2026,Apartment Rent,Rent,-950.00
+02/09/2026,Electric Co,Utilities,-58.10
+02/11/2026,Campus Bites,Dining,-22.40
+02/14/2026,Concert Tickets,Entertainment,-75.00
+02/18/2026,Bus Pass,Transport,-45.00
+02/21/2026,Grocery Mart,Groceries,-80.05
+02/24/2026,Streaming Service,Entertainment,-15.99
+03/03/2026,Paycheck,Income,2100.00
+03/05/2026,Grocery Mart,Groceries,-95.60
+03/07/2026,Apartment Rent,Rent,-950.00
+03/09/2026,Electric Co,Utilities,-70.85
+03/13/2026,Campus Bites,Dining,-19.10
+03/16/2026,Textbook Store,Shopping,-120.00
+03/16/2026,Textbook Refund,Shopping,120.00
+03/19/2026,Bus Pass,Transport,-45.00
+03/23/2026,Grocery Mart,Groceries,-88.90
+03/27/2026,Streaming Service,Entertainment,-15.99
+04/03/2026,Paycheck,Income,2100.00
+04/05/2026,Grocery Mart,Groceries,-102.15
+04/07/2026,Apartment Rent,Rent,-950.00
+04/09/2026,Electric Co,Utilities,-66.40
+04/12/2026,Campus Bites,Dining,-21.85
+04/18/2026,Bus Pass,Transport,-45.00
+04/22/2026,Concert Tickets,Entertainment,-50.00
+04/26/2026,Grocery Mart,Groceries,-79.20
